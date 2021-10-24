@@ -35,3 +35,9 @@ make exponential funciton with recursion
 add item delete item calculate for shop ID
 
 ### start exam
+
+2 for loop create a geometry pic
+
+### tower of hanoi
+
+recursion problem of tower of hanoi
