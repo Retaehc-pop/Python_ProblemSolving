@@ -19,3 +19,19 @@ create a guessing game, User can input number until u get it right
 ### parcel_triangle
 
 create parcel triangle the first n row
+
+### path finder
+
+path finding algorithm created with pygame
+
+### PLOT with matplotlib pyplot
+
+### power recursion
+
+make exponential funciton with recursion
+
+### shop system
+
+add item delete item calculate for shop ID
+
+### start exam
