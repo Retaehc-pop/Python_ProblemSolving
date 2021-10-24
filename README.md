@@ -15,3 +15,7 @@ make a conwoy's game of life
 ### guessing game
 
 create a guessing game, User can input number until u get it right
+
+### parcel_triangle
+
+create parcel triangle the first n row

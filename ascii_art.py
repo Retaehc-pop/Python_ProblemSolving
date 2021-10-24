@@ -24,7 +24,6 @@ def pixels_to_ascii(image):
 
 
 def main(new_width=100):
-    # path = input()
     image = PIL.Image.open('pic.jpg')
     new_image_data = pixels_to_ascii(grayify(resize_image(image)))
 

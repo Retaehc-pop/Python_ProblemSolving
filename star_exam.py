@@ -112,7 +112,7 @@ for i in range(n):
         print("-", end="")
     print("X", end="")
     print()
-print("X"+2*(n)*" "+"X")
+print("X"+((2*n)+1)*"-"+"X")
 for i in range(n):
     for j in range(i+1):
         print("-", end="")
